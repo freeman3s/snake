@@ -1,0 +1,6 @@
+/home/max/esmone/snake/snake/bin/Debug/snake.exe
+/home/max/esmone/snake/snake/bin/Debug/snake.pdb
+/home/max/esmone/snake/snake/obj/Debug/snake.csprojAssemblyReference.cache
+/home/max/esmone/snake/snake/obj/Debug/snake.csproj.CoreCompileInputs.cache
+/home/max/esmone/snake/snake/obj/Debug/snake.exe
+/home/max/esmone/snake/snake/obj/Debug/snake.pdb
